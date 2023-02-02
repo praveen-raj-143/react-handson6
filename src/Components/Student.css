@@ -1,0 +1,54 @@
+.cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.cont1{
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+}
+.cont2{
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    margin: 30px;
+    border-radius: 15px;
+}
+table{
+    width: 1000px;
+}
+tr{
+    background-color: white;
+}
+.addcontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1000px;
+}
+.box{
+    margin: 30px;
+    width: 400px;
+    height: 60px;
+    border-radius: 25px;
+}
+.btns{
+    width: 500px;
+    margin: auto;
+}
+.btn{
+    margin: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.tpos{
+    width: 1000px;
+    margin: auto;
+    font-style: italic;
+}
+link{
+    text-decoration: none;
+}

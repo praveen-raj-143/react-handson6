@@ -1,0 +1,16 @@
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-style: italic;
+    font-size: x-large;
+    height: fit-content;
+}
+.text3{
+    font-weight: bold;
+    font-style: italic;
+    font-size: xx-large;
+    margin: 30px;
+}
